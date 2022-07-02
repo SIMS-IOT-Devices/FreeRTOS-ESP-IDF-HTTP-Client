@@ -1,2 +1,2 @@
 # HTTP-ESP-IDF
-ESP IDF HTTP client and server examples of REST API for esp32 
+ESP IDF HTTP client examples of REST API for esp32 
